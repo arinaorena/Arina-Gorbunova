@@ -12,6 +12,7 @@ You can contact me: [Telegram](https://t.me/arinaorena)
 * Tableau
 * Redash
 * Jupyter Notebook
+* Google Colab
 
 # Education
 
